@@ -1,0 +1,16 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.log
+*.vsix
+*.nupkg
+
+# Rider
+.idea/
+
+# OS
+Thumbs.db
+Desktop.ini
