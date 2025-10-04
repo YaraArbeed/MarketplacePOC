@@ -161,16 +161,5 @@ Processing Order {GUID}: Product 3 x 3
 * `RabbitMQ.Client` NuGet package
 * Modular clean architecture
 
----
 
-## 💡 Notes
 
-* You can monitor queues in RabbitMQ UI (`http://localhost:15672`).
-* DLQ is automatically created and linked.
-* Use `Quorum` queues for high reliability in real systems.
-
----
-
-**Author:** [Your Name]
-**Version:** 1.0
-**License:** MIT
